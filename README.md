@@ -1,15 +1,6 @@
 # Diabetics Prediction using Logistic Regression
 
-Proyek ini merupakan tugas praktik klasifikasi menggunakan algoritma **Logistic Regression** untuk memprediksi apakah seorang pasien menderita diabetes atau tidak berdasarkan data medis.
-
----
-
-## Anggota Kelompok
-
-| Nama | NIM |
-|------|-----|
-| Qanzul Arays | 23523228 |
-| Muhammad Ibnu Rasyid | 23523127 |
+Klasifikasi menggunakan algoritma **Logistic Regression** untuk memprediksi apakah seorang pasien menderita diabetes atau tidak berdasarkan data medis.
 
 ---
 
